@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<countries>
+  <country>
+    <countryName>Lithuania</countryName>
+    <date>2020-05-13</date>
+    <deaths>4</deaths>
+  </country>
+  <country>
+    <countryName>Latvia</countryName>
+    <date>2020-05-13</date>
+    <deaths>1</deaths>
+  </country>
+  <country>
+    <countryName>Sweden</countryName>
+    <date>2020-05-13</date>
+    <deaths>147</deaths>
+  </country>
+  <country>
+    <countryName>Norway</countryName>
+    <date>2020-05-11</date>
+    <deaths>5</deaths>
+  </country>
+  <country>
+    <countryName>Italy</countryName>
+    <date>2020-05-14</date>
+    <deaths>262</deaths>
+  </country>
+</countries>

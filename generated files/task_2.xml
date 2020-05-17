@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<countries>
+  <country>
+    <countryName>Svalbard and Jan Mayen</countryName>
+    <latitude>77.553604</latitude>
+  </country>
+  <country>
+    <countryName>Greenland</countryName>
+    <latitude>71.706936</latitude>
+  </country>
+  <country>
+    <countryName>Iceland</countryName>
+    <latitude>64.963051</latitude>
+  </country>
+  <country>
+    <countryName>Faeroe Islands</countryName>
+    <latitude>61.892635</latitude>
+  </country>
+  <country>
+    <countryName>Finland</countryName>
+    <latitude>61.92411</latitude>
+  </country>
+  <country>
+    <countryName>Russia</countryName>
+    <latitude>61.52401</latitude>
+  </country>
+  <country>
+    <countryName>Åland Islands</countryName>
+    <latitude>60.1995487</latitude>
+  </country>
+  <country>
+    <countryName>Norway</countryName>
+    <latitude>60.472024</latitude>
+  </country>
+  <country>
+    <countryName>Sweden</countryName>
+    <latitude>60.128161</latitude>
+  </country>
+  <country>
+    <countryName>Estonia</countryName>
+    <latitude>58.595272</latitude>
+  </country>
+  <country>
+    <countryName>Canada</countryName>
+    <latitude>56.130366</latitude>
+  </country>
+  <country>
+    <countryName>Denmark</countryName>
+    <latitude>56.26392</latitude>
+  </country>
+  <country>
+    <countryName>Latvia</countryName>
+    <latitude>56.879635</latitude>
+  </country>
+  <country>
+    <countryName>Lithuania</countryName>
+    <latitude>55.169438</latitude>
+  </country>
+  <country>
+    <countryName>UK</countryName>
+    <latitude>55.378051</latitude>
+  </country>
+</countries>
